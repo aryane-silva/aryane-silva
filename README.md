@@ -6,4 +6,4 @@
 
 ● 🔭 Analista de Dados e Projetos PL na Loggi 🐇
 
-● 🌱 Conhecimento em Looker Data e Studio, Python, Banco de dados, BI
+● 🌱 Conhecimento em Looker Data e Studio, Python, SQL, BI
